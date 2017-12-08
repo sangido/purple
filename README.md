@@ -2,7 +2,6 @@
 
 An Apparition of her lover She recognizes with dismay;
 and later on she will discover that he himself had died today.
-<<<<<<< HEAD
 
 The Effigy got up with clothing
 Abstracted from the victim's room
@@ -20,4 +19,8 @@ Sinks panting in the reeds and mud:
 And hearkens to the distant shouting
 That tells him they are out for blood
 
->>>>>>> origin/master
+The sight of Uncle gives no pleasure, 
+But rather causes much alarm:
+The children know that at his leisure
+He plans to have them come to harm.
+
